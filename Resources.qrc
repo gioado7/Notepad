@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/icons8-info-50.png</file>
+        <file>img/icons8-copy-50.png</file>
+        <file>img/icons8-cut-50.png</file>
+        <file>img/icons8-new-50.png</file>
+        <file>img/icons8-open-64.png</file>
+        <file>img/icons8-paste-50.png</file>
+        <file>img/icons8-redo-50.png</file>
+        <file>img/icons8-save-50.png</file>
+        <file>img/icons8-save-as-50.png</file>
+        <file>img/icons8-undo-50.png</file>
+        <file>img/icons8-notepad-80.png</file>
+    </qresource>
+</RCC>
